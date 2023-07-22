@@ -21,3 +21,5 @@ Change value of `N_GUESS` in config.h
 ```c
 #define N_GUESS 100
 ```
+
+### Tried and Tested
